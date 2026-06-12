@@ -1,0 +1,16 @@
+Asset Name,Type,Cost,Assigned User
+Dell Latitude 5420,SN-LAP-001,1350.00,jsmith
+HP EliteDesk 800,SN-DSK-002,920.00,mjones
+Cisco Catalyst 2960,SN-NET-003,2850.00,jsmith
+HP LaserJet Pro MFP,SN-PRT-004,520.00,kwilliams
+"LG UltraFine 27""",SN-MON-005,450.00,dbrown
+Lenovo ThinkPad T14,SN-LAP-006,1650.00,lgarcia
+APC Smart-UPS 1500,SN-UPS-007,320.00,jsmith
+Polycom VVX 401,SN-PHN-008,220.00,mjones
+Seagate Backup Plus 5TB,SN-HDD-009,150.00,kwilliams
+MacBook Pro M3,SN-MAC-010,2100.00,dbrown
+BenQ TH685 Projector,SN-PRJ-011,780.00,lgarcia
+Dell PowerEdge R750,SN-SRV-012,6200.00,jsmith
+Logitech BRIO 4K,SN-CAM-013,120.00,mjones
+Keychron K8 Wireless,SN-KBD-014,180.00,kwilliams
+TP-Link EAP660 HD,SN-WAP-015,280.00,dbrown
